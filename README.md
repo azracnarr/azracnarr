@@ -17,7 +17,8 @@ Ayrıca, üniversitemin **Silversoft Yazılım Kulübü**'nde Başkan Yardımcı
   <a href="https://www.kaggle.com/azracinarr" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="azracinarr-kaggle" />
   </a>
-  <a href="mailto:azracinaarr7@gmail.com">
+  <a [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azracinaarr7@gmail.com)
+>
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="azra-cinar-email" />
   </a>
 </p>
