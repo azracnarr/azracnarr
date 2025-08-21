@@ -6,12 +6,12 @@ Profesyonel deneyimimi, **Kolaysoft A.Ş.**'de **Full-Stack Stajyeri** olarak ve
 
 Ayrıca, üniversitemin **Silversoft Yazılım Kulübü**'nde Başkan Yardımcısı olarak aktif rol alıyor, topluluk önünde projeler geliştirme ve takım çalışması yeteneklerimi güçlendiriyorum. Amacım, karmaşık problemlere ölçeklenebilir ve verimli çözümler üreterek kariyerime sağlam bir başlangıç yapmaktır.
 
----
+
 
 ### 📬 Benimle İletişime Geçin
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/azra-cinar/" target="_blank">
+  <a href="https://www.linkedin.com/in/azracinar/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="azra-cinar-linkedin" />
   </a>
   <a href="https://www.kaggle.com/azracinarr" target="_blank">
