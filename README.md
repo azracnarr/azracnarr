@@ -47,7 +47,7 @@ Ayrıca, üniversitemin **Silversoft Yazılım Kulübü**'nde Başkan Yardımcı
 
   <!-- Araçlar & ML -->
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041d0637a364057488849c36cb06a/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="50" height="50"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
