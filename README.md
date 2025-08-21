@@ -58,7 +58,7 @@ Ayrıca, üniversitemin **Silversoft Yazılım Kulübü**'nde Başkan Yardımcı
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azracinarr&show_icons=true&theme=dracula&hide_border=true" alt="azracinarr-github-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azracnarr&show_icons=true&theme=dracula&hide_border=true" alt="azracnarr-github-stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azracinarr&layout=compact&theme=dracula&hide_border=true" alt="azracinarr-top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azracnarr&layout=compact&theme=dracula&hide_border=true" alt="azracnarr-top-langs" />
 </p>
