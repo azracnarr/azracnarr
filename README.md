@@ -7,10 +7,6 @@ Profesyonel deneyimimi, **Kolaysoft A.Ş.**'de **Full-Stack Stajyeri** olarak ve
 Ayrıca, üniversitemin **Silversoft Yazılım Kulübü**'nde Başkan Yardımcısı olarak aktif rol alıyor, topluluk önünde projeler geliştirme ve takım çalışması yeteneklerimi güçlendiriyorum. Amacım, karmaşık problemlere ölçeklenebilir ve verimli çözümler üreterek kariyerime sağlam bir başlangıç yapmaktır.
 
 
-
-### 📬 Benimle İletişime Geçin
-
-
   ### 📬 Benimle İletişime Geçin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azracinar/)
